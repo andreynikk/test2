@@ -1,8 +1,0 @@
-It helped me pinpoint to the specific places that had changes so I can search
-for the typo faster
-I could see how the code evolved, and if I want to return to a specific point in time I could do that.
-its important to commit logical changes as all the code changes touched a specific logical module. also auto commits can commit an uncompilled code.
-git is a code version control not file, so it makes more sense that 1 logical change in code will be across multiple files.
-i can use log and diff to view changes between commits
-I feel i can change more frequently as I wont be deleting anything,  everything is saved in version control.:Wq
-I would like to use git for all my side projects and DL MOOC projects
