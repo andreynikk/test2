@@ -1,1 +1,2 @@
 on repo init a meta data for it is created
+it gives me the option to add partial changes, and track what I do before added code to master
